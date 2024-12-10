@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#5e5e5e</color>
+    <!--Primary Colors-->
+    <color name="primary_50">#ecf2ff</color>
+    <color name="primary_100">#dde8ff</color>
+    <color name="primary_200">#c2d4ff</color>
+    <color name="primary_300">#9cb6ff</color>
+    <color name="primary_400">#758dff</color>
+    <color name="primary_500">#5465ff</color>
+    <color name="primary_600">#363af5</color>
+    <color name="primary_700">#2a2bd8</color>
+    <color name="primary_800">#2528ae</color>
+    <color name="primary_900">#262b89</color>
+    <color name="primary_950">#161750</color>
+
+    <!--Auxiliar Colors-->
+    <color name="green">#23b58b</color>
+    <color name="yellow">#e8b523</color>
+    <color name="red">#e23b58</color>
+</resources>
